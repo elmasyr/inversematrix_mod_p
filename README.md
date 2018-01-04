@@ -1,1 +1,1 @@
-﻿# My first github project
+﻿# My random repository for school work
